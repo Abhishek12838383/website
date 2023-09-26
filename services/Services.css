@@ -1,0 +1,59 @@
+.service{
+    height: 500px;
+    width: 100%;
+}
+.titlee{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.hea{
+    font-size: 28px;
+    font-weight: bold;
+    width: 450px;   
+    margin-left: 500px;
+    margin-top: 20px;
+
+}
+.x-1{
+    height: 250px;
+    width: 200px;
+    background-color: rgb(97, 96, 96);
+    border-radius: 10px;
+}
+.hea h3{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.x-1 span{
+    margin-left: 80px;
+    margin-top: 30px;
+    color: white;
+}
+.h h3{
+    margin-left: 25px;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-bottom: 65px;
+}
+.t h3{
+    margin-left: 15px;
+    color: rgb(206, 206, 206);
+    font-size: smaller;
+    font-weight: 100;
+    width: 180px;
+}
+hr{
+    width: 80%;
+    margin-left: 15px;
+    margin-top: 10px;
+    color: rgb(206, 206, 206);
+}
+.boxx{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    margin-left: 200px;
+}

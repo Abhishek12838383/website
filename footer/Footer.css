@@ -1,0 +1,53 @@
+.footer{
+    display: flex;
+    height: 500px;
+    width: 100%;
+    margin-top: 100px;
+    background-color: rgb(109, 109, 109);
+}
+.footer hr{
+    margin-top: 50px;
+}
+.left{
+    margin-left: 100px;
+    color: white;
+}
+.left h2{
+    margin-top: 100px;
+    color: ghostwhite;
+    font-size: 14px;
+    font-weight: 300;
+}
+.ti h3{
+    margin-top: 50px;
+    color: ghostwhite;
+    font-size: 48px;
+    font-weight: bolder;
+}
+.p ul{
+    color: rgb(184, 183, 183);
+    font-size: 14px;
+    list-style: none;
+}
+.p ul li{
+    margin-bottom: 10px;
+}
+.right{
+    margin-top: 130px;
+    margin-left: 250px;
+}
+.right input{
+    height: 40px;
+    width: 200px;
+    border-radius: 10px 0 0 10px;
+    border: none;
+}
+.bt{
+    border-radius: 0px 10px 10px 0px;
+    background-color: #F5900D;
+    color: white;
+    height: 40px;
+    width: 120px;
+    margin-top: 30px;
+    border: none;
+}
